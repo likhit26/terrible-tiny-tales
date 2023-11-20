@@ -1,0 +1,101 @@
+{
+  "profile": {
+    "name": "Cley Jensen",
+    "background" : "https://wallpapers.com/images/featured-full/abstract-background-6m6cjbifu3zpfv84.jpg",
+    "pic" : "https://i.pinimg.com/736x/bf/b9/fb/bfb9fbec0e00f2aaabdbdbdae422303e.jpg",
+    "followers": 5000,
+    "following": 2000,
+    "position" : "Co-founder & CEO at Ourkart website",
+    "link" : "https://github.com/rachittiwari03",
+    "stars": 100,
+    "likes": "40K",
+    "views": "90k",
+    "hearts": 10000
+  },
+  "posts": [
+    {
+        "title": "New React Features Unveiled",
+        "content": "Discover the latest features introduced in React and how they enhance the development experience. Explore new tools, optimizations, and improvements that make React even more powerful.",
+        "date": "June 10",
+        "read_time": "12 min",
+        "views": 350
+    },
+    {
+        "title": "Revolutionizing JavaScript: The Next Era",
+        "content": "Take a sneak peek into the future of JavaScript and the upcoming advancements. From novel syntax to groundbreaking performance enhancements, explore what's next for JavaScript developers.",
+        "date": "July 20",
+        "read_time": "16 min",
+        "views": 400
+    },
+    {
+        "title": "Advanced Cybersecurity Strategies",
+        "content": "Stay ahead of cyber threats with advanced strategies for developers. Dive deep into threat intelligence, secure coding practices, and the latest technologies to fortify your applications.",
+        "date": "August 8",
+        "read_time": "20 min",
+        "views": 450
+    },
+    {
+        "title": "Revolutionizing Microservices: Next-Gen Trends",
+        "content": "Explore the cutting-edge trends shaping the future of microservices architecture. From serverless integration to advanced communication protocols, stay informed on the latest advancements.",
+        "date": "September 20",
+        "read_time": "18 min",
+        "views": 500
+    },
+    {
+        "title": "Innovations in PWA Development",
+        "content": "Stay updated on the latest innovations in Progressive Web App development. Uncover new tools, design patterns, and techniques for building high-performance PWAs that delight users.",
+        "date": "October 15",
+        "read_time": "14 min",
+        "views": 550
+    },
+    {
+        "title": "Advancements in Natural Language Processing",
+        "content": "Explore the latest advancements in Natural Language Processing, from state-of-the-art models to breakthroughs in language understanding. Stay at the forefront of NLP technology.",
+        "date": "November 20",
+        "read_time": "22 min",
+        "views": 600
+    },
+    {
+        "title": "The Future of Serverless Computing",
+        "content": "Dive into the evolving landscape of serverless computing and its transformative potential. Discover emerging trends, use cases, and best practices for the future of serverless.",
+        "date": "December 15",
+        "read_time": "15 min",
+        "views": 450
+    },
+    {
+        "title": "Augmented Reality: Emerging Applications",
+        "content": "Explore the latest applications of augmented reality across diverse industries. From healthcare to education, delve into how AR is reshaping our digital and physical worlds.",
+        "date": "January 25",
+        "read_time": "18 min",
+        "views": 500
+    },
+    {
+        "title": "Blockchain Innovations Beyond Cryptocurrencies",
+        "content": "Dive deep into the latest innovations in blockchain technology and its expanding applications. Explore decentralized finance, NFTs, and the impact on various industries.",
+        "date": "February 28",
+        "read_time": "20 min",
+        "views": 550
+    },
+    {
+        "title": "Mastering API Security",
+        "content": "Enhance your knowledge of API security with advanced best practices. From zero-trust architectures to encryption standards, fortify your APIs against evolving cybersecurity threats.",
+        "date": "March 15",
+        "read_time": "16 min",
+        "views": 500
+    },
+    {
+        "title": "Quantum Computing Unleashed",
+        "content": "Embark on a journey into the fascinating realm of quantum computing. Explore recent breakthroughs, potential applications, and the transformative impact on industries.",
+        "date": "April 10",
+        "read_time": "25 min",
+        "views": 650
+    },
+    {
+        "title": "Rust Programming: Revolutionizing System Programming",
+        "content": "Discover how Rust continues to reshape system programming. From enhanced performance to new language features, explore the modern landscape of Rust programming.",
+        "date": "May 20",
+        "read_time": "18 min",
+        "views": 550
+    }
+]
+}
