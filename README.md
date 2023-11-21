@@ -10,28 +10,6 @@ The project includes the following components:
 - **Posts Component:** Display Marvel Movie details after introuction of Multiverse concept(Phase 5) .
 - **Components Folder:** Organizes React components.
 
-## Project Structure
-
-  react-profile-screen/
-|-- public/
-|   |-- data.json
-|-- src/
-|   |-- Components/
-|   |   |-- About/
-|   |   |   |-- About.js
-|   |   |   |-- About.css
-|   |   |-- Navbar/
-|   |   |   |-- Navbar.js
-|   |   |   |-- Navbar.css
-|   |   |-- Posts/
-|   |   |   |-- Posts.js
-|   |   |   |-- Posts.css
-|   |-- App.js
-|   |-- index.js
-|   |-- index.css
-|-- README.md
-|-- package.json
-
 
 
 # Getting Started with Create React App
